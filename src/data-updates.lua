@@ -1,0 +1,1 @@
+data.raw.plant["tree-plant"].minable.results = {{type = "item", name = "wood", amount = 12}}

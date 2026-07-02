@@ -1,13 +1,15 @@
 {
-  "name": "MOD-NAME-HERE",
-  "version": "0.0.1",
-  "factorio_version": "2.0",
-  "title": "[MOD NAME HERE]",
-  "author": "",
-  "contact": "",
-  "homepage": "",
-  "description": "",
+  "name": "greenhouse-bad",
+  "version": "1.0.0",
+  "factorio_version": "2.1",
+  "title": "greenhousen't",
+  "author": "AzzyBunn the Agriculture lover.",
+  "contact": "don't contact me </3",
+  "homepage": "ilove.gleba",
+  "description": " Makes tree seeding a viable alternative to greenhouses by boosting wood yield.",
   "dependencies": [
-    "base >= 2.0.21"
+    "base >= 2.1.9",
+    "space-age >= 2.1.9",
+    "? Krastorio2 >= 2.1.2"
   ]
 }
